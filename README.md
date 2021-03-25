@@ -1,3 +1,19 @@
+frok的    action版本 
+
+
+
+
+
+
+设置里面添加      unicom_user   内容填手机号
+                 unicom_password      内容填服务密码
+                 unicom_appid         内容填你的appid
+
+进入actions  开启action服务
+
+然后随便找个文件 修改一下   只要可以提交就能出发action运行
+
+
 
 **一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级。**
 
