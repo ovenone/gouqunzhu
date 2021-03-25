@@ -5,7 +5,9 @@ frok的    action版本
 
 
 
-设置里面添加      unicom_user   内容填手机号
+设置里面添加 
+                 ENABLE_UNICOM    内容填  ture 
+                 unicom_user   内容填手机号
                  unicom_password      内容填服务密码
                  unicom_appid         内容填你的appid
 
